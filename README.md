@@ -20,6 +20,10 @@ https://arxiv.org/abs/2409.11355
 https://gonzalomartingarcia.github.io/diffusion-e2e-ft/
 
 ### 🖼 Output
+marigold_e2e_ft_normals_jupyter
+![download](https://github.com/user-attachments/assets/8a11a027-04b0-4584-bc7f-b4f18d0f127a)
+marigold_e2e_ft_depth_jupyter
+![download](https://github.com/user-attachments/assets/bc92801f-1b0c-4639-84fe-7eea58118476)
 
 ### 🏢 Sponsor
 https://runpod.io
